@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-professional-react-portfolio-x/static/css/main.b69e2314.chunk.css",
+    "main.js": "/my-professional-react-portfolio-x/static/js/main.353f2eb2.chunk.js",
+    "main.js.map": "/my-professional-react-portfolio-x/static/js/main.353f2eb2.chunk.js.map",
+    "runtime-main.js": "/my-professional-react-portfolio-x/static/js/runtime-main.fc2345ff.js",
+    "runtime-main.js.map": "/my-professional-react-portfolio-x/static/js/runtime-main.fc2345ff.js.map",
+    "static/css/2.829c4719.chunk.css": "/my-professional-react-portfolio-x/static/css/2.829c4719.chunk.css",
+    "static/js/2.26723ca8.chunk.js": "/my-professional-react-portfolio-x/static/js/2.26723ca8.chunk.js",
+    "static/js/2.26723ca8.chunk.js.map": "/my-professional-react-portfolio-x/static/js/2.26723ca8.chunk.js.map",
+    "index.html": "/my-professional-react-portfolio-x/index.html",
+    "static/css/2.829c4719.chunk.css.map": "/my-professional-react-portfolio-x/static/css/2.829c4719.chunk.css.map",
+    "static/css/main.b69e2314.chunk.css.map": "/my-professional-react-portfolio-x/static/css/main.b69e2314.chunk.css.map",
+    "static/js/2.26723ca8.chunk.js.LICENSE.txt": "/my-professional-react-portfolio-x/static/js/2.26723ca8.chunk.js.LICENSE.txt",
+    "static/media/IMG_8705.e4ce72c7.jpg": "/my-professional-react-portfolio-x/static/media/IMG_8705.e4ce72c7.jpg",
+    "static/media/Marie Valdovinos resume 2021 (1).cf4130d5.pdf": "/my-professional-react-portfolio-x/static/media/Marie Valdovinos resume 2021 (1).cf4130d5.pdf",
+    "static/media/ReactPortfolio.78246d5b.PNG": "/my-professional-react-portfolio-x/static/media/ReactPortfolio.78246d5b.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc2345ff.js",
+    "static/css/2.829c4719.chunk.css",
+    "static/js/2.26723ca8.chunk.js",
+    "static/css/main.b69e2314.chunk.css",
+    "static/js/main.353f2eb2.chunk.js"
+  ]
+}
