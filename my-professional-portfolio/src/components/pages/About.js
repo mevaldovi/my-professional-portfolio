@@ -11,7 +11,7 @@ export default function About() {
       <br></br>
       <br></br>
       <p>
-      Full stack web developer providing creative
+      Hey guys I'm Marie! I'm a full stack web developer providing creative
 perspectives on how users interact with the web.
 <br />
  Earned certificate in Full Stack Web Development from the
