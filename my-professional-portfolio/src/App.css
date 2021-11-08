@@ -1,38 +1,119 @@
-.App {
+.img{
+  height: 200px;
+  width: 200px;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+.avatar{
+  display: inline-block;
+  overflow: hidden;
+  line-height: 1;
+  vertical-align: middle;
+  flex-shrink: 0;
+  height:auto;
+  width:fit-content;
+  box-shadow: 0, 0, 0.5, 1px gray;
+
+}
+ #avatar1{
+  vertical-align: middle;
+  height: 30vh;
+  width: 24vh;
+  border: 1px solid #fff;
+  /* border-radius: 50%; */
+ }
+
+ #avatar2{
+  vertical-align: middle;
+  height: 24vh;
+  width: 15vw;
+  border: 1px solid #fff;
+  /* border-radius: 50%; */
+ }
+
+#img-thumbnail{
+  vertical-align: middle;
+  height: 200px;
+  width: 0 auto;
+  justify-content:center;
+  border: 1px solid #fff;
+}
+
+.card-title {
+  color:#32FBE2;
+  text-shadow:0 1px rgb(255 255 255 / 60%), 0 0 3px rgb(255 255 255 / 50%), 0 0 0.5rem rgb(255 255 255 / 30%), 0 0 2rem rgb(255 255 255 / 20%);
+}
+
+#list-item{
+  text-shadow:0 1px rgb(255 255 255 / 60%), 0 0 3px rgb(255 255 255 / 50%), 0 0 0.5rem rgb(255 255 255 / 30%), 0 0 2rem rgb(255 255 255 / 20%);
+}
+
+#top{
+  color:#32FBE2;
+  text-shadow: 0 1px rgb(255 255 255 / 60%), 0 0 3px rgb(255 255 255 / 50%), 0 0 0.5rem rgb(255 255 255 / 30%), 0 0 2rem rgb(255 255 255 / 20%);
+  text-decoration: none;
+
+}
+
+
+a:visited{
+  color:#E6FB04;
+}
+
+a:hover{
+  color:#FF6700;
+}
+
+a:active{
+  color: #32FBE2;
+
+}
+
+#middle{
+  justify-content: center;
+  text-align:center;
+  align-items: center;
+}
+
+.card-body {
+  justify-content: center;
+  text-align:center;
+  align-items: center;
+}
+
+.h1{
+  justify-content: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.div1{
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-align: center;
 }
 
-.App-link {
-  color: #61dafb;
+.div2{
+  justify-content: center;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.hyperlink{
+  text-decoration: none;
+}
+
+li{
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+}
+
+.footer{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
