@@ -6,8 +6,7 @@ export default function About() {
     <div className="div1">
       <h1 id="top">About Me</h1>
       <br></br>
-      <h5 class="card-title"></h5>
-      <img src={pic} class="rounded-circle" id="avatar1" alt="..." />
+      <img src={pic} className="rounded-circle" id="avatar1" alt="..." />
       <br></br>
       <br></br>
       <p>

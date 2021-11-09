@@ -43,34 +43,34 @@ export default function Portfolio() {
   ];
 
   return (
-    <div class="div1">
+    <div className="div1">
       <h1 id="top">Portfolio</h1>
-      <div class="row align-items-center">
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-          {projects.map((project) => (
-            <div class="card-body">
-              <h5 class="card-title">{project.title}</h5>
+      <div className="row align-items-center">
+        <div className="row row-cols-1 row-cols-md-3 g-4">
+          {projects.map((project, i) => (
+            <div className="card-body" key={i}>
+              <h5 className="card-title">{project.title}</h5>
               <img
-                alt=""
+                alt="..."
                 id="img-thumbnail"
-                class="rounded-circle"
+                className="rounded-circle"
                 src={project.image}
               />
               <a
-                class="hyperlink"
+                className="hyperlink"
                 href={project.gitHub}
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <p class="github-link">Github Link</p>
+                <p className="github-link">Github Link</p>
               </a>
               <a
-                class="hyperlink"
+                className="hyperlink"
                 href={project.liveSite}
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <p class="deployed-link">Live Site</p>
+                <p className="deployed-link">Live Site</p>
               </a>
             </div>
           ))}
