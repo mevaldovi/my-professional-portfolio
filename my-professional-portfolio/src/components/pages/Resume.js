@@ -1,5 +1,5 @@
 import React from 'react';
-import file from '../../files/Marie Valdovinos resume 2021 (1).pdf'
+import file from '../../files/Copy of Marie Valdovinos resume 2021 (7).pdf'
 
 
 
