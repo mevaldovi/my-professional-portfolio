@@ -38,8 +38,18 @@ ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 
 # Usage
 
-If the link does not work, you can just clone down this repo, navigate into and open terminal at the client root file ("professional-portfolio") and type "npm start" to run.
-Utilize the links in the live webpage to explore my work and contact me if desired.
+- Clone down this repo
+
+- Open in integrated terminal
+
+- cd src
+
+- npm install
+
+- npm start
+
+- If app does not initialize immediately, try vising https://localhost:3000
+
 
 # License
 MIT License
