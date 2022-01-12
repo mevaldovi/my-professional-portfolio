@@ -40,22 +40,18 @@ ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 
 - Clone down this repo
 
-- Open in integrated terminal
-
-- cd src
+- cd my-professional-portfolio
 
 - npm install
 
 - npm start
-
-- If app does not initialize immediately, try vising https://localhost:3000
 
 
 # License
 MIT License
 # Contact
 
-[Github](https://github.com/mevaldovi)
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
