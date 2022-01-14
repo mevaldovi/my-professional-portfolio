@@ -51,10 +51,13 @@ ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 MIT License
 # Contact
 
+If there are any issues running this application locally, please reach out to me:
+
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
+Email: [mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
 
-Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
+
 # Agknowledgments
 For future implementation I plan on using these styled logos provided in the links below:
 
