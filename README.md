@@ -8,7 +8,7 @@ Deployed React App: [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.ver
 
 
 # Description
-Overview portfolio of my current projects, but with React.
+Portfolio of my recent projects, made with React.
 
 # Technology
 ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
