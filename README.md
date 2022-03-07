@@ -38,13 +38,15 @@ ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 
 # Usage
 
-- Clone down this repo
+Bold text indicates commands in the terminal; italicized text indicates steps to take
 
-- cd my-professional-portfolio
+- _Clone down this repo_
 
-- npm install
+- **cd my-professional-portfolio**
 
-- npm start
+- **npm install**
+
+- **npm start**
 
 
 # License
