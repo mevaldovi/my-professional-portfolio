@@ -16,9 +16,6 @@ Portfolio of my recent projects, made with React.
 [<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969355-b305ae2d-51a7-4a1b-adbe-055090dc3284.png" />](https://bootswatch.com)
 
 
- 
-
-
 
 # Table of Contents
 [Description](https://github.com/mevaldovi/my-professional-portfolio#Description)
@@ -44,15 +41,13 @@ Portfolio of my recent projects, made with React.
 
 # Usage
 
-Bold text indicates commands in the terminal; italicized text indicates steps to take
-
 - _Clone down this repo_
 
-- **cd my-professional-portfolio**
+- `cd my-professional-portfolio`
 
-- **npm install**
+- `npm install`
 
-- **npm start**
+- `npm start`
 
 
 # License
