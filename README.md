@@ -13,7 +13,9 @@ Portfolio of my recent projects, made with React.
 # Technology
 [<img alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
 [<img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969191-1015cacb-e64c-4924-971e-168f1bccbd99.png" />](https://bootswatch.com)
+[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969355-b305ae2d-51a7-4a1b-adbe-055090dc3284.png" />](https://bootswatch.com)
+
+
  
 
 
