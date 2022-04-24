@@ -11,14 +11,11 @@ Deployed React App: [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.ver
 Portfolio of my recent projects, made with React.
 
 # Technology
-[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
-[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
-[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
-[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969134-1b0eefa5-b914-46f7-96d4-ede363a5f5a4.png" />](https://bootswatch.com)
-<!--  ![bootswatch_logo_icon_170460](https://user-images.githubusercontent.com/83307023/164969134-1b0eefa5-b914-46f7-96d4-ede363a5f5a4.png)" />](https://bootswatch.com) -->
-<!-- ![bootswatch-icon](https://user-images.githubusercontent.com/83307023/164969017-0eaf5a96-c556-4906-9d24-d163f574dc98.png)
- -->
-ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
+[<img alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
+[<img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969191-1015cacb-e64c-4924-971e-168f1bccbd99.png" />](https://bootswatch.com)
+ 
+
 
 
 # Table of Contents
@@ -64,7 +61,10 @@ If there are any issues running this application locally, please reach out to me
 
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
-Email: [mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
+
+
+Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
 
 
 # Agknowledgments
