@@ -11,6 +11,12 @@ Deployed React App: [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.ver
 Portfolio of my recent projects, made with React.
 
 # Technology
+[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
+[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
+[<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
+[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969017-0eaf5a96-c556-4906-9d24-d163f574dc98.png" />](https://bootswatch.com)
+<!-- ![bootswatch-icon](https://user-images.githubusercontent.com/83307023/164969017-0eaf5a96-c556-4906-9d24-d163f574dc98.png)
+ -->
 ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 
 
