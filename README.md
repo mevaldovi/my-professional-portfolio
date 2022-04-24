@@ -14,7 +14,8 @@ Portfolio of my recent projects, made with React.
 [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
 [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
 [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/)
-[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969017-0eaf5a96-c556-4906-9d24-d163f574dc98.png" />](https://bootswatch.com)
+[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969134-1b0eefa5-b914-46f7-96d4-ede363a5f5a4.png" />](https://bootswatch.com)
+<!--  ![bootswatch_logo_icon_170460](https://user-images.githubusercontent.com/83307023/164969134-1b0eefa5-b914-46f7-96d4-ede363a5f5a4.png)" />](https://bootswatch.com) -->
 <!-- ![bootswatch-icon](https://user-images.githubusercontent.com/83307023/164969017-0eaf5a96-c556-4906-9d24-d163f574dc98.png)
  -->
 ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
