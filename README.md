@@ -1,6 +1,6 @@
 # my-professional-portfolio
 
-[Deployed React App](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
+Deployed React App: [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
 <img width="482" alt="my-professional-portfolio" src="https://user-images.githubusercontent.com/83307023/141001173-00185ba4-77fc-4ba9-adf7-b6862ec3a184.png">
 
@@ -8,10 +8,13 @@
 
 
 # Description
-Overview portfolio of my current projects, but with React.
+Portfolio of my recent projects, made with React.
 
 # Technology
-ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
+[<img alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
+[<img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt=medium src="https://user-images.githubusercontent.com/83307023/164969355-b305ae2d-51a7-4a1b-adbe-055090dc3284.png" />](https://bootswatch.com)
+
 
 
 # Table of Contents
@@ -38,17 +41,29 @@ ReactJS, Bootswatch, Javascript, JSX, HTML, CSS.
 
 # Usage
 
-If the link does not work, you can just clone down this repo, navigate into and open terminal at the client root file ("professional-portfolio") and type "npm start" to run.
-Utilize the links in the live webpage to explore my work and contact me if desired.
+- _Clone down this repo_
+
+- `cd my-professional-portfolio`
+
+- `npm install`
+
+- `npm start`
+
 
 # License
 MIT License
 # Contact
 
-[Github](https://github.com/mevaldovi)
+If there are any issues running this application locally, please reach out to me:
+
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
+
+
 # Agknowledgments
 For future implementation I plan on using these styled logos provided in the links below:
 
