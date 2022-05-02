@@ -10,7 +10,7 @@ const Footer = (props) => {
       <br></br>
       <br></br>
       <div>
-          <a className="hyperlink" href="https://www.linkedin.com/in/marie-valdovinos-a616b21b1/" rel= "noopener noreferrer" target="_blank"><img alt="..." src={LinkedIn}></img></a>
+          <a className="hyperlink" href="https://linkedin.com/in/marie-valdovinos" rel= "noopener noreferrer" target="_blank"><img alt="..." src={LinkedIn}></img></a>
           <a className="hyperlink" href="https://twitter.com/mevaldov20" rel= "noopener noreferrer" target="_blank"><img alt="..." src={Twitter}></img></a>
           <a className="hyperlink" href="https://github.com/mevaldovi" rel= "noopener noreferrer" target="_blank"><img alt="..." src={Github}></img></a>
           <a className="hyperlink" href="https://www.youtube.com/channel/UCyfKEIg34EHFuwYFFcDWAkQ" rel= "noopener noreferrer" target="_blank"><img alt="..." src={YouTube}></img></a>

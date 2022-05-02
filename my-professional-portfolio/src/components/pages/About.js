@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../../images/IMG_8705.jpg";
+import pic from "../../images/dec2021.JPG";
 
 export default function About() {
   return (
