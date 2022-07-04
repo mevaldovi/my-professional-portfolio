@@ -3,8 +3,7 @@
 Deployed React App: [https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app](https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app)
 
 
-<img width="482" alt="my-professional-portfolio" src="https://vercel.com/29c468ea-bdd6-4a66-ad64-f583eacfae8b">
-
+<img width="763" alt="Screenshot 2022-05-01 225319" src="https://user-images.githubusercontent.com/83307023/166182277-2747f5e7-f40d-4ab8-9fdd-2c2e834ae6ff.png">
 
 
 
